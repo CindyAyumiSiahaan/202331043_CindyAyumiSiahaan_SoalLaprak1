@@ -1,0 +1,160 @@
+h1 {
+  color: palevioletred;
+  font-style: italic;
+}
+
+h2 {
+  color: pink;
+  font-weight: bold;
+}
+
+.toolbar li {
+  display: inline;
+  background-color: rgb(250, 154, 202);
+  margin: 2px;
+  padding: .5em;
+}
+
+#col1 {
+  float: none;
+  width: 80px;
+  height: 80px;
+  overflow-y: visible;
+  background-color: cornsilk;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+#col2 {
+  float: none;
+  width: 80px;
+  height: 140px;
+  overflow-y: visible;
+  background-color: cornsilk;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+#col3 {
+  float: left;
+  width: 80px;
+  height: 70px;
+  overflow-y: scroll;
+  background-color: cornsilk;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+#col4 {
+  float: left;
+  width: 80px;
+  height: 100px;
+  overflow-y: scroll;
+  background-color: cornsilk;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+#col5 {
+  float: left;
+  width: 80px;
+  height: 100px;
+  overflow-y: scroll;
+  background-color: cornsilk;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+#col6 {
+  float: left;
+  width: 80px;
+  height: 70px;
+  overflow-y: visible;
+  background-color: cornsilk;
+  padding: 5px;
+  margin: 10px;
+}
+
+#col7 {
+  float: left;
+  width: 120px;
+  height: 130px;
+  overflow-y: visible;
+  background-color: cornsilk;
+  padding: 5px;
+  margin: 10px;
+}
+
+#slogan {
+  font-size: 20px;
+  color: palevioletred;
+  font-style: italic;
+  font-family: FontCindy;
+  padding: 5px;
+  padding-bottom: 5px;
+}
+
+#col8 {
+  float: left;
+  width: 100px;
+  height: 120px;
+  overflow-y: scroll;
+  background-color: cornsilk;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+#col9 {
+  float: left;
+  width: 100px;
+  height: 120px;
+  overflow-y: scroll;
+  background-color: cornsilk;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+#col10 {
+  float: left;
+  width: 100px;
+  height: 120px;
+  overflow-y: scroll;
+  background-color: cornsilk;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+#col11 {
+  float: left;
+  width: 100px;
+  height: 120px;
+  overflow-y: scroll;
+  background-color: cornsilk;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+#col12 {
+  float: left;
+  width: 100px;
+  height: 120px;
+  overflow-y: scroll;
+  background-color: cornsilk;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+#col13 {
+  float: left;
+  width: 100px;
+  height: 120px;
+  overflow-y: scroll;
+  background-color: cornsilk;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+@font-face {
+  font-family: FontCindy;
+  src: url("Bloody\ Scary.ttf");
+}
